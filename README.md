@@ -3,9 +3,7 @@
 
 This repo provides the codebase and results for [1]
 
-### Code will be published upon acceptance.
-
-[1] Alexander von Bank, Eike-Manuel Edelmann and Laurent Schmalen, Energy-efficient Spiking Neural Network Equalization for IM/DD Systems with Optimized Neural Encoding, ..., ..., ...
+[1] Alexander von Bank, Eike-Manuel Edelmann and Laurent Schmalen, "Energy-efficient spiking neural network equalization for IM/DD systems with optimized neural encoding," Proc. Opt. Fiber Commun. Conf. (OFC), San Diego, CA, USA, Mar. 2024, https://arxiv.org/abs/2312.12909
 
 ---
 
